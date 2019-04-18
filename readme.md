@@ -31,5 +31,5 @@ Date | Course Title
 8/5  | Software Engineering
 
 
-![pic1]()
+![pic1](https://github.com/csci3250-2019/student-1155112412/blob/master/screenshot.png)
 
