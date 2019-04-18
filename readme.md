@@ -32,5 +32,4 @@ Date | Course Title
 
 
 ![pic1]()
-![pic2]()
-![pic3]()
+
